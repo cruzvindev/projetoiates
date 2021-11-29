@@ -1,0 +1,243 @@
+body {
+  background-color: #ebebeb;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  height: 120px;
+  width: 100%;
+  background-color: #21272b;
+}
+
+li {
+  display: inline-block;
+  list-style: none;
+  text-decoration: none;
+  color: #ffffff;
+  margin-top: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.container_textheader {
+  margin-right: 300px;
+
+  position: relative;
+  right: 40px;
+}
+
+.logo {
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
+
+h2 {
+  position: relative;
+  bottom: 25px;
+  left: 55px;
+  color: #ffffff;
+}
+
+h1,
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+}
+
+h1 {
+  color: #1bb4e8;
+  position: relative;
+  left: 50px;
+}
+
+.menu {
+  position: relative;
+  right: 5px;
+  bottom: 40px;
+}
+
+nav .active a,
+nav a:hover {
+  color: #1bb4e8;
+}
+
+#banner {
+  background-image: url("images/barcoprincipal.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 570px;
+  position: relative;
+  bottom: 20px;
+}
+
+.textosobreaimagem {
+  background-color: #1a3243;
+  width: 420px;
+  height: 250px;
+  position: relative;
+  top: 200px;
+  left: 700px;
+}
+
+#coisas,
+#luxo {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  position: relative;
+  left: 35px;
+  top: 10px;
+}
+
+.ferias {
+  position: relative;
+  bottom: 25px;
+}
+
+.ferias,
+.vida {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffffff;
+  position: relative;
+  left: 55px;
+}
+
+.vida {
+  position: relative;
+  bottom: 30px;
+}
+
+.barco2 {
+  position: relative;
+  left: 25px;
+  top: 34px;
+}
+
+#number {
+  position: relative;
+  left: 125px;
+  bottom: 67px;
+  color: #c6b07f;
+}
+
+.conttainer {
+  width: 35%;
+  height: 580px;
+  position: relative;
+  left: 30px;
+}
+
+.barcod {
+  position: relative;
+  top: 3px;
+}
+
+.destinos {
+  background-color: #1bb4e8;
+  height: 50px;
+  width: 100%;
+}
+
+#dest {
+  position: relative;
+  bottom: 55px;
+  left: 45px;
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+.texto2 {
+  width: 100%;
+  height: 250px;
+}
+
+#francesa {
+  color: #21272b;
+  font-size: 20px;
+}
+
+#ilhas {
+  color: #21272b;
+}
+
+.barcodestino {
+  width: 99%;
+}
+
+.contttainer {
+  position: relative;
+  width: 35%;
+  height: 565px;
+  bottom: 580px;
+  left: 700px;
+}
+
+.nossafrota {
+  background-color: #c6b07f;
+  height: 50px;
+  width: 100%;
+}
+
+#frota {
+  position: relative;
+  bottom: 53px;
+  left: 45px;
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+.direcao {
+  position: relative;
+  top: 4px;
+  left: 2px;
+}
+
+#vasta {
+  color: #21272b;
+  font-size: 20px;
+}
+
+#modelos {
+  color: #21272b;
+}
+
+.frotaa1 {
+  position: relative;
+  bottom: 130px;
+  right: 45px;
+}
+
+.frotaa2 {
+  position: relative;
+  bottom: 358px;
+  left: 180px;
+}
+
+.frotaa3 {
+  position: relative;
+  bottom: 470px;
+  left: 180px;
+}
+
+.frotaa4 {
+  position: relative;
+  bottom: 698px;
+  right: 45px;
+}
+
+footer {
+  position: relative;
+  bottom: 500px;
+}
